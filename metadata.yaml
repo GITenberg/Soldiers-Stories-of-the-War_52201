@@ -1,5 +1,5 @@
 _repo: Soldiers-Stories-of-the-War_52201
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Michael, A. C. (Arthur C.)
@@ -8,6 +8,9 @@ contributor:
     - Michael, Arthur C.
     gutenberg_agent_id: '36114'
     url: http://www.gutenberg.org/2009/agents/36114
+covers:
+- cover_type: archival
+  image_path: 52201-h/images/cover.jpg
 creator:
   editor:
     agent_name: Wood, Walter
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '44403'
     url: http://www.gutenberg.org/2009/agents/44403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52201#Soldiers-Stories-of-the-War
 gutenberg_issued: '2016-05-31'
 gutenberg_type: Text
 identifiers:
